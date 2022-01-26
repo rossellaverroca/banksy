@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<catalogo>
+		<item n="1" xml:id="lista-1">
+			<teiHeader>
+				<fileDesc>
+					<titleStmt>
+						<title xml:lang="en">Wall and Piece</title>
+						<author xml:id="http://viaf.org/viaf/51384525">Banksy</author>
+						<respStmt>
+							<resp>Codifica TEI</resp>
+							<resp>Trascrizione</resp>
+							<resp>Marcatura</resp>
+							<resp>Metadatazione</resp>
+							<name xml:id="RV">Rossella Maria Verroca</name>
+						</respStmt>
+					</titleStmt>
+
+					<publicationStmt>
+						<publisher>Università di Bologna</publisher>
+						<availability>Testo liberamente consultabile</availability>
+						<licence target="https://creativecommons.org/licenses/by/3.0/">Licenza: Creative Commons Attribution 3.0</licence>
+					</publicationStmt>
+
+					<editionStmt>
+						<edition>Anteprima del testo marcato in TEI</edition>
+						<date>2022</date>
+					</editionStmt>
+				
+
+				<!-- Informazioni sulla fonte primaria della risorsa -->
+				<sourceDesc>
+					<bibl type="monogr">
+						<title xml:lang="en">Wall and Piece</title>
+						<author xml:id="http://viaf.org/viaf/51384525">Banksy</author>
+						<publisher>Century, The Random House Group Limited</publisher>
+						<pubPlace xml:ref="http://www.geonames.org/2643743/london.html">London</pubPlace>
+						<idno type="ISBN">1844137864</idno>
+						<textLang>English</textLang>
+					</bibl>
+
+				</sourceDesc>
+
+				</fileDesc>
+
+				<encodingDesc>
+					<projectDesc>
+					<p>Anteprima di trascrizione in linguaggio XML/TEI del libro <title>Wall and Piece di Banksy</title>. Il testo è marcato con descrittori relativi alla forma e al contenuto del testo.</p>
+					</projectDesc>	
+				</encodingDesc>
+
+				<profileDesc>
+					<textClass>
+						<keywords scheme="AAT">
+							<list>
+								<item idno="300015613">graffiti</item> 
+								<item idno="300438620">wall</item>
+							</list></keywords>
+					</textClass>
+				</profileDesc>
+
+			</teiHeader>
+
+			<text>
+				<front>
+					<titlePage>
+						<docAuthor xml:id="http://viaf.org/viaf/51384525">Banksy</docAuthor>
+						<docTitle xml:lang="en">Wall and Piece</docTitle>
+						<docEdition>First Edition</docEdition>
+						<docDate>2005</docDate>
+					</titlePage>
+
+					<div type="index" xml:lang="en">
+						<head>Wall and Piece</head>
+						<list>
+							<item>Monkeys</item>
+							<item>Cops</item>
+							<item>Rats</item>
+							<item>Cows</item>
+							<item>Art</item>
+							<item>Street furniture</item>
+						</list>
+					</div>
+				</front>
+
+
+				<body xml:lang="en">
+					<p n="1">I'm going to speak my mind, so this 
+						<lb/>won't take very long.</p>
+					<p n="2"><term type="keywords" idno="300015613">Graffiti</term> is not the lowest form of art. 
+						<lb/>Despite having to creep about at 
+						<lb/>night and lie to your mum it's actually 
+						<lb/>the most honest artform available. 
+						<lb/>There is no elitism or hype, it exhibits 
+						<lb/>on some of the best walls as a town has 
+						<lb/>to offer, and nobody is put off by the 
+						<lb/>price of admission.</p>
+					<p n="3">A <term type="keywords" idno="300438620">wall</term> has always been the best 
+						<lb/>place to publish your work.</p>
+					<p n="4">The people who run put cities don't 
+						<lb/>unterstand <term type="keywords" idno="300015613">graffiti</term> because they think 
+						<lb/>nothing has the right to exist unless it 
+						<lb/>makes a profit. But if you just value 
+						<lb/>money then your opinion is worthless.</p>
+					<p n="5">They say <term type="keywords" idno="300015613">graffiti</term> frightens people and 
+						<lb/>is symbolic of the declin in society, 
+						<lb/>but <term type="keywords" idno="300015613">graffiti</term> is only dangerous in the 
+						<lb/>mind of three types of people; 
+						<lb/>politicians, advertising executives and 
+						<lb/>graffiti writers.</p>
+					<p n="6">The people who truly deface our 
+						<lb/>neighborhoods are the companies 
+						<lb/>that scrowl their giant slogans across 
+						<lb/>builidings and buses trying to make us 
+						<lb/>feel inadequate unless we buy their 
+						<lb/>stuff. The expect to be able to shout 
+						<lb/>their message in your face from every 
+						<lb/>available surface but you're never 
+						<lb/>allowed to answer back. Weel, they 
+						<lb/>started this fight and the <term type="keywords" idno="300438620">wall</term> is the 
+						<lb/>weapon of choice to hit them back.</p>
+					<p n="7">Some people become cops because 
+						<lb/>they want to make the world a better 
+						<lb/>place. Somepeople become vandals 
+						<lb/>beacuse they want to make the world 
+						<lb/>a better <emph xml:lang="en" style="font-style: italic">looking</emph> place.</p>					
+
+				</body>
+				
+
+			</text>
+			
+
+
+
+		</item>
+		
+
+	</catalogo>
+	
+
+
+</TEI>
