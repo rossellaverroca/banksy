@@ -97,17 +97,20 @@
 
 
 .img_timeline{
-  width: 300px;
-  height: 200px;
+
   margin: auto;
+  max-width: 100%;
 
 }
 
 
 .decenni{
   padding: 2rem;
-  position: relative;
-  left: 1000px;
+}
+
+.filtro_date{
+  display: inline-block;
+  
 }
 
 
@@ -146,4 +149,11 @@
   .right {
     left: 0%;
   }
+
+
+
+
 }
+
+
+
