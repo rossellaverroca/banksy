@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+    <item n="3" xml:ide="lista-3">
+
+    <cdwa:cdwalite xmlns:cdwa="http://www.getty.edu/CDWA/CDWALite"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite
+    http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+
+
+
+
+     <cdwa:descriptiveMetadata>
+     	<cdwa:objectWorkTypeWrap>
+     		<cdwa:objectWorkType cdwa:termsource="AAT" cdwa:termsourceID="300182732">murals</cdwa:objectWorkType>
+     	</cdwa:objectWorkTypeWrap>
+
+     	<cdwa:titleWrap>
+     		<cdwa:titleSet>
+     			<cdwa:title>Migrant Child</cdwa:title>
+     			<cdwa:sourceTitle>Migrant Child</cdwa:sourceTitle>
+     		</cdwa:titleSet>
+     	</cdwa:titleWrap>
+
+
+     	<cdwa:displayCreator>Banksy</cdwa:displayCreator>
+     	<cdwa:indexingCreatorWrap>
+     		<cdwa:indexingCreatorSet>
+     			<cdwa:nameCreatorSet>
+     				<cdwa:nameCreator cdwa:termsource="VIAF" cdwa:termsourceID="51384525">Banksy</cdwa:nameCreator>
+     			</cdwa:nameCreatorSet>
+     			<cdwa:nationalityCreator>English</cdwa:nationalityCreator>
+     			<cdwa:vitalDatesCreator cdwa:birthDate="1974" cdwa:deathDate="unknown">1974-unknown</cdwa:vitalDatesCreator>
+     			<cdwa:genderCreator>male</cdwa:genderCreator>
+     			<cdwa:roleCreator>Graffiti artist</cdwa:roleCreator>
+     		</cdwa:indexingCreatorSet>
+     	</cdwa:indexingCreatorWrap>
+
+     	<cdwa:displayMeasurements>unknown</cdwa:displayMeasurements>
+
+
+        <cdwa:displayMaterialsTech>spray paint on wall; stencil</cdwa:displayMaterialsTech>
+        <cdwa:indexingMaterialsTechWrap>
+            <cdwa:indexingMaterialsTechSet>
+                <cdwa:termMaterialsTech cdwa:termsource="AAT" cdwa:termsourceID="300391376">spray paint</cdwa:termMaterialsTech>
+                <cdwa:termMaterialsTech cdwa:termsource="AAT" cdwa:termsourceID="300022777">marble</cdwa:termMaterialsTech>
+            </cdwa:indexingMaterialsTechSet>
+        </cdwa:indexingMaterialsTechWrap>
+
+
+     	<cdwa:styleWrap>
+     		<cdwa:style cdwa:termsource="AAT" cdwa:termsourceID="300056477">street art</cdwa:style>
+     	</cdwa:styleWrap>
+
+     	<cdwa:cultureWrap>
+     		<cdwa:culture cdwa:termsource="AAT" cdwa:termsourceID="300264737">Contemporary</cdwa:culture>
+     </cdwa:cultureWrap>
+
+     <cdwa:displayCreationDate>2019</cdwa:displayCreationDate>
+     <cdwa:indexingDatesWrap>
+     	<cdwa:indexingDatesSet>
+     		<cdwa:earliestDate>2019</cdwa:earliestDate>
+     		<cdwa:latestDate>2019</cdwa:latestDate>
+     	</cdwa:indexingDatesSet>
+     </cdwa:indexingDatesWrap>
+
+
+     <cdwa:locationWrap>
+     	<cdwa:locationSet>
+     		<cdwa:locationName cdwa:termsource="TGN" cdwa:termsourceID="7003006">Venice</cdwa:locationName>
+     	</cdwa:locationSet>
+     </cdwa:locationWrap>
+
+     <cdwa:indexingSubjectWrap>
+     	<cdwa:indexingSubjectSet>
+     		<cdwa:subjectTerm cdwa:termsource="Iconoclass" cdwa:termsourceID="46C53">46C53</cdwa:subjectTerm>
+     	</cdwa:indexingSubjectSet>
+     </cdwa:indexingSubjectWrap>
+
+     <cdwa:classWrap>
+     	<cdwa:classification cdwa:termsource="AAT" cdwa:termsourceID="300056477">Street art</cdwa:classification>
+     </cdwa:classWrap>
+
+     <cdwa:descriptiveNoteWrap>
+     	<cdwa:descriptiveNoteSet>
+     		<cdwa:descriptiveNote>Graffito realizzato su muro con la tecnica dello stencil, tipico dell'arte di Banksy. Rappresenta un bambino con giubbotto di salvataggio che tiene in mano una fiaccola da cui fuoriesce del fumo rosa. L'opera è collocata in basso su un muro che si affaccia sui canali di Venezia: in caso di acqua alta, il bambino migrante raffigurato è quasi sommerso e il messaggio del dramma dei migranti si fa più intenso.
+     		</cdwa:descriptiveNote>
+     	</cdwa:descriptiveNoteSet>
+     </cdwa:descriptiveNoteWrap>
+
+
+
+    </cdwa:descriptiveMetadata>
+    </cdwa:cdwalite>
+
+</item>
+</catalogo>
