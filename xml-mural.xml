@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <catalogo>
-    <item n="3" xml:ide="lista-3">
+    <item n="3" xml:id="lista-3">
 
-    <cdwa:cdwalite xmlns:cdwa="http://www.getty.edu/CDWA/CDWALite"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite
-    http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
-
-
+    <cdwa:cdwalite xmlns:cdwa="http://www.getty.edu/CDWA/CDWALite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd" xml:id="BanksyLast20">
 
 
      <cdwa:descriptiveMetadata>
@@ -44,7 +39,7 @@
         <cdwa:indexingMaterialsTechWrap>
             <cdwa:indexingMaterialsTechSet>
                 <cdwa:termMaterialsTech cdwa:termsource="AAT" cdwa:termsourceID="300391376">spray paint</cdwa:termMaterialsTech>
-                <cdwa:termMaterialsTech cdwa:termsource="AAT" cdwa:termsourceID="300022777">marble</cdwa:termMaterialsTech>
+                <cdwa:termMaterialsTech cdwa:termsource="AAT" cdwa:termsourceID="300022777">stencil</cdwa:termMaterialsTech>
             </cdwa:indexingMaterialsTechSet>
         </cdwa:indexingMaterialsTechWrap>
 
@@ -68,6 +63,7 @@
 
      <cdwa:locationWrap>
      	<cdwa:locationSet>
+            <cdwa:locationName cdwa:termsource="GeoNames" cdwa:termsourceID="12156345">Canale di Rio Novo</cdwa:locationName>
      		<cdwa:locationName cdwa:termsource="TGN" cdwa:termsourceID="7003006">Venice</cdwa:locationName>
      	</cdwa:locationSet>
      </cdwa:locationWrap>
