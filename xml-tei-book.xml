@@ -7,13 +7,14 @@
 				<fileDesc>
 					<titleStmt>
 						<title xml:lang="en">Wall and Piece</title>
-						<author xml:id="http://viaf.org/viaf/51384525">Banksy</author>
+						<author xml:ref="http://viaf.org/viaf/51384525">Banksy</author>
 						<respStmt>
+							<name xml:id="RV">Rossella Maria Verroca</name>
 							<resp>Codifica TEI</resp>
 							<resp>Trascrizione</resp>
 							<resp>Marcatura</resp>
 							<resp>Metadatazione</resp>
-							<name xml:id="RV">Rossella Maria Verroca</name>
+							
 						</respStmt>
 					</titleStmt>
 
@@ -33,7 +34,7 @@
 				<sourceDesc>
 					<bibl type="monogr">
 						<title xml:lang="en">Wall and Piece</title>
-						<author xml:id="http://viaf.org/viaf/51384525">Banksy</author>
+						<author xml:ref="http://viaf.org/viaf/51384525">Banksy</author>
 						<publisher>Century, The Random House Group Limited</publisher>
 						<pubPlace xml:ref="http://www.geonames.org/2643743/london.html">London</pubPlace>
 						<idno type="ISBN">1844137864</idno>
@@ -52,11 +53,12 @@
 
 				<profileDesc>
 					<textClass>
-						<keywords scheme="AAT">
+						<keywords scheme="AAT" resp="#RV">
 							<list>
-								<item idno="300015613">graffiti</item> 
-								<item idno="300438620">wall</item>
-							</list></keywords>
+								<item idno="300015613" ref="http://vocab.getty.edu/page/aat/300015613" xml:id="1">graffiti</item> 
+								<item idno="300438620" ref="http://vocab.getty.edu/page/aat/300438620" xml:id="2">wall</item>
+							</list>
+						</keywords>
 					</textClass>
 				</profileDesc>
 
@@ -65,7 +67,7 @@
 			<text>
 				<front>
 					<titlePage>
-						<docAuthor xml:id="http://viaf.org/viaf/51384525">Banksy</docAuthor>
+						<docAuthor xml:ref="http://viaf.org/viaf/51384525">Banksy</docAuthor>
 						<docTitle xml:lang="en">Wall and Piece</docTitle>
 						<docEdition>First Edition</docEdition>
 						<docDate>2005</docDate>
@@ -88,7 +90,7 @@
 				<body xml:lang="en">
 					<p n="1">I'm going to speak my mind, so this 
 						<lb/>won't take very long.</p>
-					<p n="2"><term type="keywords" idno="300015613">Graffiti</term> is not the lowest form of art. 
+					<p n="2"><term type="keywords" id="#1" resp="#RV">Graffiti</term> is not the lowest form of art. 
 						<lb/>Despite having to creep about at 
 						<lb/>night and lie to your mum it's actually 
 						<lb/>the most honest artform available. 
@@ -96,16 +98,16 @@
 						<lb/>on some of the best walls as a town has 
 						<lb/>to offer, and nobody is put off by the 
 						<lb/>price of admission.</p>
-					<p n="3">A <term type="keywords" idno="300438620">wall</term> has always been the best 
+					<p n="3">A <term type="keywords" id="#2" resp="#RV">wall</term> has always been the best 
 						<lb/>place to publish your work.</p>
 					<p n="4">The people who run put cities don't 
-						<lb/>unterstand <term type="keywords" idno="300015613">graffiti</term> because they think 
+						<lb/>unterstand <term type="keywords" id="#1" resp="#RV">graffiti</term> because they think 
 						<lb/>nothing has the right to exist unless it 
 						<lb/>makes a profit. But if you just value 
 						<lb/>money then your opinion is worthless.</p>
-					<p n="5">They say <term type="keywords" idno="300015613">graffiti</term> frightens people and 
+					<p n="5">They say <term type="keywords" id="#1" resp="#RV">graffiti</term> frightens people and 
 						<lb/>is symbolic of the declin in society, 
-						<lb/>but <term type="keywords" idno="300015613">graffiti</term> is only dangerous in the 
+						<lb/>but <term type="keywords" id="#1" resp="#RV">graffiti</term> is only dangerous in the 
 						<lb/>mind of three types of people; 
 						<lb/>politicians, advertising executives and 
 						<lb/>graffiti writers.</p>
@@ -118,7 +120,7 @@
 						<lb/>their message in your face from every 
 						<lb/>available surface but you're never 
 						<lb/>allowed to answer back. Weel, they 
-						<lb/>started this fight and the <term type="keywords" idno="300438620">wall</term> is the 
+						<lb/>started this fight and the <term type="keywords" id="#2" resp="#RV">wall</term> is the 
 						<lb/>weapon of choice to hit them back.</p>
 					<p n="7">Some people become cops because 
 						<lb/>they want to make the world a better 
