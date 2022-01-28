@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<catalogo xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="lista"> 
+<catalogo xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xml:id="lista"> 
 
 <item n="2" xml:id="lista-2">
 	<dc:title>Girl with Baloon</dc:title>
 		<dc:creator type="author" permalink="http://viaf.org/viaf/51384525">Banksy</dc:creator>
-		<dc:subject type="Iconoclass">31D11222</dc:subject>
+		<dc:subject type="dcterms:Iconoclass">31D11222</dc:subject>
 		<dc:description><title lang="en">Girl with Baloon</title> è una serigrafia a colori dell'artista inglese <person type="author" permalink="http://viaf.org/viaf/51384525">Banksy</person> realizzata nel <date>2004</date>.</dc:description>
 		<dc:publisher type="creator" permalink="http://viaf.org/viaf/51384525">Banksy</dc:publisher>
 		<dc:date type="creation">2004</dc:date>
 		<dc:type>Print</dc:type>
-		<dc:type type="AAT">300053281</dc:type>
+		<dc:type type="dcterms:AAT">300053281</dc:type>
 		<dc:format>70 x 50 centimetri</dc:format>
 		<dc:coverage>Collezione privata</dc:coverage>
 		<dc:rights>Licenza CC 4.0</dc:rights>

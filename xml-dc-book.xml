@@ -5,16 +5,16 @@
 	<item n="1" xml:id="lista-1">		
 		<dc:title>Wall and Piece</dc:title>
 		<dc:creator type="author" permalink="http://viaf.org/viaf/51384525">Banksy</dc:creator>
-		<dc:subject type="DDC">751</dc:subject>
+		<dc:subject type="dcterms:DDC">751</dc:subject>
 		<dc:description><work lang="en">Wall and Piece</work> è una monografia a stampa dell'artista inglese <person>Banksy</person> pubblicata per la prima volta nel <date>2005</date>.</dc:description>
 		<dc:publisher>Century, The Random House Group Limited</dc:publisher>
 		<dc:date type="creation">2005</dc:date>
 		<dc:type>Book</dc:type>
 		<dc:type>Monography</dc:type>
 		<dc:format>207 pagine : ill. ; 26 x 20 centimetri</dc:format>
-		<dc:identifier type="ISBN">1844137864</dc:identifier>
-		<dc:language type="ISO 639-2">eng</dc:language>
-		<dc:coverage type="GeoNames" href="http://www.geonames.org/2643743/london.html">London</dc:coverage>
+		<dc:identifier type="dcterms:ISBN">1844137864</dc:identifier>
+		<dc:language type="dcterms:ISO 639-2">eng</dc:language>
+		<dc:coverage type="dcterms:GeoNames" href="http://www.geonames.org/2643743/london.html">London</dc:coverage>
 		<dc:rights>Copyright Designs and Patents Act 1988</dc:rights>
 	</item>
 
